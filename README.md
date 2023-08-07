@@ -1,4 +1,4 @@
-# LEGO Tank and a PS4 Controller
+# LEGO® Tank and a PS4 Controller
 
 A basic Python script for a LEGO EV3 tank.
 
